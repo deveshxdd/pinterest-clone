@@ -1,0 +1,17 @@
+
+
+IN THIS PART WE WILL ABLE TO LEARN HOW TO USE BACKEND IN DEVELOPMENT 
+HOW TO USE AI IN DEVELOPMENT
+LIKE CHATGPT , GENERATIVE AI
+
+most important topic we will learn is data association
+
+
+ data 
+ hamare paas 2 model h ek model contain krta hai user ki info
+ aur ek model post ki 
+ user koi na koi post to krega hi 
+ so hum ek dusre model ko connect krte hai use data association bolte hai 
+
+ye baat hmesa yaad rakhna model banane ke baad jo v task dete h model ko wo async hota hai
+                                                                          
