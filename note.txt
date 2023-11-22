@@ -14,4 +14,11 @@ most important topic we will learn is data association
  so hum ek dusre model ko connect krte hai use data association bolte hai 
 
 ye baat hmesa yaad rakhna model banane ke baad jo v task dete h model ko wo async hota hai
-                                                                          
+
+
+----------> ROADMAP TO CREATE PINTEREST <----------------
+1 - / ROUTE BANANA H LOGIN AND SIGNUP KE LIA
+2 - /PROFILE PAR AAPKO AAPKI PROFILE DIKHEGI AND AAPKE SAVED POSTS DIKHEGA
+UPLOAD SECTION HOGA JO AVI BANA NHI RHE
+/ FEED SECTION JAHA SAARE POSTS IMAGES DIKHENGE CLICK KRKE IMAGE OPEN HOJAAEGI
+/BOARD/:BOARDNAME JISPE PURA BOARD DIKHEGA 
